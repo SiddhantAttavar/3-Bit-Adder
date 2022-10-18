@@ -8,8 +8,9 @@
  - XOR
  - XNOR
 
-## Project Ideas:
+## Projects:
  - 3 bit adder
- - Studying properties of logic gates
 
 https://simulator.io/board/7sHmTvNX4D
+
+![circuit diagram](./logic-circuit.png)
